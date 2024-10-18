@@ -1,6 +1,5 @@
 import java.util.Arrays;
 public class Main {
-
     public static void main(String[] args) {
         // Вызов метода square
         int result1 = Methods.square(5);
